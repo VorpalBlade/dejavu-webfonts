@@ -1,6 +1,6 @@
 # DejaVu web fonts
 
-This repository contains the DejaVu fonts as web fonts.
+This repository contains the [DejaVu fonts](https://dejavu-fonts.github.io/) as web fonts.
 
 This is DejaVu fonts version 2.37.
 
